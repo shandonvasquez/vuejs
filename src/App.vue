@@ -81,7 +81,7 @@ Overclocking: Maximize Your Performance
 AMD: 
 AMD Ryzen™ Master Utility for Overclocking Control
  - AMD’s toolkit for overclocking Ryzen processors. Note that overclocking support for non-Ryzen models is no longer recommended by AMD.
-
+lsld
 AMD: 
 Ryzen™ Processor Overclocked Memory Compatibility List
  - List of AMD Ryzen CPU models that support overclocking.
